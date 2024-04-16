@@ -1,0 +1,94 @@
+﻿@model ML.Alimento
+
+
+@{
+    ViewBag.Title = "MaquinaExpendedora";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>PRODUCTOS EN LA MAQUINA </h1>
+<br>
+
+<link rel="stylesheet" href="~/css/Cards.css" asp-append-version="true">
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+@*----------------   BARRA LATERAL ----------------------------------------------------- *@
+@*<body class="custom-background" style="background-color: lightgreen">
+
+    <div class="w3-sidebar w3-bar-block w3-card" style="width:25%;right:0;height:200%; background-color: khaki">
+        <h3 class="w3-bar-item">Tu selección</h3>
+        @*  <a href="#" class="w3-bar-item w3-button">Link 1</a>*@
+
+      @*  <button class="btn">
+            <img src="https://www.banxico.org.mx/multimedia/C_mon_10_resumen.png" width="50px">
+        </button>
+
+    </div>*@
+
+    @*----------------   BARRA LATERAL ----------------------------------------------------- *@
+
+
+
+    <div class="row" id="alimentos">
+
+        @foreach (ML.Alimento alimento in Model.Alimentos)
+        {
+            <div class="col-md-3 col-sm-6">
+                <div class="product-grid">
+                    <div class="product-image">
+                        <a href="#" class="image">
+
+                            <img src="https://png.pngtree.com/png-vector/20210915/ourlarge/pngtree-food-logo-vector-png-image_3930784.jpg" class="w-100" />
+
+                            @*     <img class="pic-1" src="data:image/*;base64,@producto.Imagen">*@
+                            <img class="pic-2" src="https://static.vecteezy.com/system/resources/previews/003/092/544/original/e-commerce-logo-with-pointer-and-shopping-bag-free-vector.jpg">
+
+                        </a>
+                        <ul class="product-links">
+
+                            <div id="boton">
+                            <li><a href="@Url.Action("AgregarProducto","Maquina", new {idAlimento = alimento.IdAlimento})"><i class="fa fa-shopping-cart"></i></a></li>
+                    </div>
+                    </ul>
+                </div>
+                <div class="product-content">
+                    <h3 class="title"><a href="#">@alimento.Nombre</a></h3>
+                    <div class="price">$@alimento.Precio</div>
+                </div>
+            </div>
+        </div>
+        }
+
+    </div>
+
+
+    <br>
+   
+
+
+    @*   <button>Alternar entre ocultar() y mostrar() de la foto</button>
+
+    <a href="#" class="img" style="display:none">
+    <img src="https://www.banxico.org.mx/multimedia/100G_anv_ngo.png" style="max-width:100%;width:auto;height:auto;" >
+    </a>*@
+
+
+
+
+
+<script>
+    $("#boton").click(function () {
+        $("#pago").show();
+        $("#alimentos").hide();
+
+    });
+</script>
+
+
+
+
+    

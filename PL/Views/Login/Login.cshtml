@@ -1,0 +1,46 @@
+﻿@model ML.Usuario
+@{
+    ViewBag.Title = "Login";
+    Layout = null;
+}
+<link rel="stylesheet" href="~/css/Login.css" sp-append-version="true">
+
+<body>
+    <section class="container">
+        <div class="login-container">
+            <div class="circle circle-one"></div>
+            <div class="circle"></div>
+
+            <div class="form-container">
+                <img src="https://raw.githubusercontent.com/hicodersofficial/glassmorphism-login-form/master/assets/illustration.png" alt="illustration" class="illustration" />
+                <h1 class="opacity">Ingresar</h1>
+
+                @using (Html.BeginForm("Login", "Login", FormMethod.Post, new { enctype = "multipart/form-data" }))
+                {
+
+                    <input type="username" placeholder="UserName" name="Username">
+                    <input type="password" placeholder="Password" name="Password">
+
+
+                    <div>
+                        <button type="submit" class="opacity">Iniciar Sesión</button>
+
+                    </div>
+                }
+
+
+
+                <div class="register-forget opacity">
+                    <a href="@Url.Action("Register", "Login")" class="btn btn-success"><i class="bi bi-person-fill-add"></i>Register</a>
+                    <a href="@Url.Action("RecuperaEmail", "Login")" class="btn btn-success"><i class="bi bi-person-fill-add"></i>¿Olvidaste tu contraseña?</a>
+
+                </div>
+            </div>
+            <div class="circle circle-two"></div>
+            <div class="circle"></div>
+
+        </div>
+        <div class="theme-btn-container"></div>
+
+    </section>
+</body>

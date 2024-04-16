@@ -1,0 +1,57 @@
+﻿@model ML.Venta
+
+@{
+    ViewBag.Title = "ResumenCompras";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>HISTORIAL DE COMPRAS</h1>
+<br>
+
+<div class="row">
+
+    <br>
+    <br>
+
+    @if (Model == null)
+    {
+
+        <div class="alert alert-warning" role="alert">
+            Ocurrio Error!
+        </div>
+    }
+    else
+    {
+        <div class="table-responsive">
+            <table class="table align-middle table table-striped table-bordered" id="tabla">
+                <thead>
+                    <tr>
+                        <th scope="col">Id_Usuario</th>
+                        <th scope="col">Fecha</th>
+                        <th scope="col">Nombre</th>
+                        <th scope="col">Apellidos</th>
+                        <th scope="col">Alimento</th>
+                        <th scope="col">Precio</th>
+                        <th scope="col">Monto Ingresado</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (ML.Venta venta in Model.Ventas)
+                    {
+                        <tr>
+                            <td> @venta.IdVenta</td>
+                            <td> @venta.Fecha </td>
+                            <td> @venta.Usuario.Nombre</td>
+                            <td>@venta.Usuario.ApellidoPaterno,@venta.Usuario.ApellidoMaterno </td>
+                            <td>@venta.Alimento.Nombre</td>
+                            <td>@venta.Alimento.Precio</td>
+                            <td>@venta.MontoIngresado</td>
+
+
+                        </tr>
+
+                    }
+                </tbody>
+            </table>
+        </div>
+    }
