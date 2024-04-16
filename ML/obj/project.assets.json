@@ -3026,11 +3026,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\digis\\Documents\\Christian Otero Garcia\\COteroMaquinaExpendedora\\ML\\ML.csproj",
+      "projectUniqueName": "C:\\Users\\digis\\Documents\\Christian Otero Garcia\\COteroExpendedoraGIT\\COteroMaqExp\\ML\\ML.csproj",
       "projectName": "ML",
-      "projectPath": "C:\\Users\\digis\\Documents\\Christian Otero Garcia\\COteroMaquinaExpendedora\\ML\\ML.csproj",
+      "projectPath": "C:\\Users\\digis\\Documents\\Christian Otero Garcia\\COteroExpendedoraGIT\\COteroMaqExp\\ML\\ML.csproj",
       "packagesPath": "C:\\Users\\digis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\digis\\Documents\\Christian Otero Garcia\\COteroMaquinaExpendedora\\ML\\obj\\",
+      "outputPath": "C:\\Users\\digis\\Documents\\Christian Otero Garcia\\COteroExpendedoraGIT\\COteroMaqExp\\ML\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

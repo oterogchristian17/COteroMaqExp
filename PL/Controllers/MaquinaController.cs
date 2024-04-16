@@ -84,8 +84,8 @@ namespace PL.Controllers
 
 
 
-        [HttpGet]
-        CalcularBilletesYMonedas
+        //[HttpGet]
+        //CalcularBilletesYMonedas
     }
 
 

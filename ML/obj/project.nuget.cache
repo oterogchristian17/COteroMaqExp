@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WUXHr50rzHkpaRrZua1zac7uNd9ooYke1nsil2nAE6ImtI/t0u/iVdcIIrHPh1ja21lug2ocaE3umFzsuZghAQ==",
+  "dgSpecHash": "B0MYrC7ElkoZOY80Q3ONH7y7mPT105gshP8+25YNNWKMszLp+EVQRmegx1LHtOnCmwcXXn0ilvyjjy4xsvL0ig==",
   "success": true,
-  "projectFilePath": "C:\\Users\\digis\\Documents\\Christian Otero Garcia\\COteroMaquinaExpendedora\\ML\\ML.csproj",
+  "projectFilePath": "C:\\Users\\digis\\Documents\\Christian Otero Garcia\\COteroExpendedoraGIT\\COteroMaqExp\\ML\\ML.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\digis\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\digis\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

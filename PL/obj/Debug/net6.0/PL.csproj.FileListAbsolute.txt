@@ -93,3 +93,14 @@ C:\Users\digis\Documents\Christian Otero Garcia\COteroMaquinaExpendedora\PL\obj\
 C:\Users\digis\Documents\Christian Otero Garcia\COteroMaquinaExpendedora\PL\obj\Debug\net6.0\PL.genruntimeconfig.cache
 C:\Users\digis\Documents\Christian Otero Garcia\COteroMaquinaExpendedora\PL\obj\Debug\net6.0\ref\PL.dll
 C:\Users\digis\Documents\Christian Otero Garcia\COteroMaquinaExpendedora\PL\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\digis\Documents\Christian Otero Garcia\COteroExpendedoraGIT\COteroMaqExp\PL\obj\Debug\net6.0\PL.csproj.AssemblyReference.cache
+C:\Users\digis\Documents\Christian Otero Garcia\COteroExpendedoraGIT\COteroMaqExp\PL\obj\Debug\net6.0\PL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\digis\Documents\Christian Otero Garcia\COteroExpendedoraGIT\COteroMaqExp\PL\obj\Debug\net6.0\PL.AssemblyInfoInputs.cache
+C:\Users\digis\Documents\Christian Otero Garcia\COteroExpendedoraGIT\COteroMaqExp\PL\obj\Debug\net6.0\PL.AssemblyInfo.cs
+C:\Users\digis\Documents\Christian Otero Garcia\COteroExpendedoraGIT\COteroMaqExp\PL\obj\Debug\net6.0\PL.csproj.CoreCompileInputs.cache
+C:\Users\digis\Documents\Christian Otero Garcia\COteroExpendedoraGIT\COteroMaqExp\PL\obj\Debug\net6.0\PL.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\digis\Documents\Christian Otero Garcia\COteroExpendedoraGIT\COteroMaqExp\PL\obj\Debug\net6.0\PL.RazorAssemblyInfo.cache
+C:\Users\digis\Documents\Christian Otero Garcia\COteroExpendedoraGIT\COteroMaqExp\PL\obj\Debug\net6.0\PL.RazorAssemblyInfo.cs
+C:\Users\digis\Documents\Christian Otero Garcia\COteroExpendedoraGIT\COteroMaqExp\PL\obj\Debug\net6.0\PL.dll
+C:\Users\digis\Documents\Christian Otero Garcia\COteroExpendedoraGIT\COteroMaqExp\PL\obj\Debug\net6.0\refint\PL.dll
+C:\Users\digis\Documents\Christian Otero Garcia\COteroExpendedoraGIT\COteroMaqExp\PL\obj\Debug\net6.0\PL.pdb

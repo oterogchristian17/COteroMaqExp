@@ -9,61 +9,61 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PL
 build_property.RootNamespace = PL
-build_property.ProjectDir = C:\Users\digis\Documents\Christian Otero Garcia\COteroMaquinaExpendedora\PL\
+build_property.ProjectDir = C:\Users\digis\Documents\Christian Otero Garcia\COteroExpendedoraGIT\COteroMaqExp\PL\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\digis\Documents\Christian Otero Garcia\COteroMaquinaExpendedora\PL
+build_property.MSBuildProjectDirectory = C:\Users\digis\Documents\Christian Otero Garcia\COteroExpendedoraGIT\COteroMaqExp\PL
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/digis/Documents/Christian Otero Garcia/COteroMaquinaExpendedora/PL/Views/Home/Index.cshtml]
+[C:/Users/digis/Documents/Christian Otero Garcia/COteroExpendedoraGIT/COteroMaqExp/PL/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/digis/Documents/Christian Otero Garcia/COteroMaquinaExpendedora/PL/Views/Home/Privacy.cshtml]
+[C:/Users/digis/Documents/Christian Otero Garcia/COteroExpendedoraGIT/COteroMaqExp/PL/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/digis/Documents/Christian Otero Garcia/COteroMaquinaExpendedora/PL/Views/Login/Login.cshtml]
+[C:/Users/digis/Documents/Christian Otero Garcia/COteroExpendedoraGIT/COteroMaqExp/PL/Views/Login/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cTG9naW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/digis/Documents/Christian Otero Garcia/COteroMaquinaExpendedora/PL/Views/Login/Modal.cshtml]
+[C:/Users/digis/Documents/Christian Otero Garcia/COteroExpendedoraGIT/COteroMaqExp/PL/Views/Login/Modal.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cTW9kYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/digis/Documents/Christian Otero Garcia/COteroMaquinaExpendedora/PL/Views/Maquina/Carrito.cshtml]
+[C:/Users/digis/Documents/Christian Otero Garcia/COteroExpendedoraGIT/COteroMaqExp/PL/Views/Maquina/Carrito.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFxdWluYVxDYXJyaXRvLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/digis/Documents/Christian Otero Garcia/COteroMaquinaExpendedora/PL/Views/Maquina/MaquinaExpendedora.cshtml]
+[C:/Users/digis/Documents/Christian Otero Garcia/COteroExpendedoraGIT/COteroMaqExp/PL/Views/Maquina/MaquinaExpendedora.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFxdWluYVxNYXF1aW5hRXhwZW5kZWRvcmEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/digis/Documents/Christian Otero Garcia/COteroMaquinaExpendedora/PL/Views/Resumen/Resumen.cshtml]
+[C:/Users/digis/Documents/Christian Otero Garcia/COteroExpendedoraGIT/COteroMaqExp/PL/Views/Resumen/Resumen.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzdW1lblxSZXN1bWVuLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/digis/Documents/Christian Otero Garcia/COteroMaquinaExpendedora/PL/Views/Resumen/ResumenCompras.cshtml]
+[C:/Users/digis/Documents/Christian Otero Garcia/COteroExpendedoraGIT/COteroMaqExp/PL/Views/Resumen/ResumenCompras.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzdW1lblxSZXN1bWVuQ29tcHJhcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/digis/Documents/Christian Otero Garcia/COteroMaquinaExpendedora/PL/Views/Shared/Error.cshtml]
+[C:/Users/digis/Documents/Christian Otero Garcia/COteroExpendedoraGIT/COteroMaqExp/PL/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/digis/Documents/Christian Otero Garcia/COteroMaquinaExpendedora/PL/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/digis/Documents/Christian Otero Garcia/COteroExpendedoraGIT/COteroMaqExp/PL/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/digis/Documents/Christian Otero Garcia/COteroMaquinaExpendedora/PL/Views/_ViewImports.cshtml]
+[C:/Users/digis/Documents/Christian Otero Garcia/COteroExpendedoraGIT/COteroMaqExp/PL/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/digis/Documents/Christian Otero Garcia/COteroMaquinaExpendedora/PL/Views/_ViewStart.cshtml]
+[C:/Users/digis/Documents/Christian Otero Garcia/COteroExpendedoraGIT/COteroMaqExp/PL/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/digis/Documents/Christian Otero Garcia/COteroMaquinaExpendedora/PL/Views/Shared/_Layout.cshtml]
+[C:/Users/digis/Documents/Christian Otero Garcia/COteroExpendedoraGIT/COteroMaqExp/PL/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-ykycstrbf1
